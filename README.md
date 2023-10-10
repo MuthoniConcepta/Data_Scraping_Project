@@ -30,7 +30,7 @@ The primary objectives of this project were as follows:
 
 ## Usage
 
-The data scraped from IMDb is available in the form of an R file added in my repository. You can use this dataset for your own analysis or projects.
+The data scraped from IMDb is available in the form of an xls file added in my repository. You can use this dataset for your own analysis or projects.
 
 ## License
 
